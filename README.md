@@ -2,11 +2,12 @@
 
 <table>
   <tr>
-    <td style="padding-right:40px; vertical-align: middle;">
+    <td style="padding-right:10px; vertical-align: middle;">
       <h2>Welcome to my profile | Bienvenidos a mi perfil </h2>
       <p> 
-      Atualmente sou estudante de Sistemas de Informação(3º período) na UCL - Universidade Centro Leste (Campus Mangunios - ES). Me interesso tanto por front-end quanto por back-end e também pela área de dados. Linguagens que estudo atualmente são: Python e C#. Estou iniciando tambem, os estudos em Java.<br>
-      Estudo e me atualizo sobre a área de tecnologia constantemente pois adoro aprender e utilizar meus conhecimentos para desenvolver soluções inovadoras.</p>
+      Atualmente sou estudante de Sistemas de Informação(3º período) na UCL(Universidade <br>Centro Leste). Me interesso por front-end, por back-end e também pela área de dados.</p>
+        <p>Linguagens que estudo atualmente são: Python e C#. Estou iniciando tambem, os estudos em Java.</p>
+      <p>Estudo e me atualizo sobre a área de tecnologia constantemente pois adoro aprender e utilizar meus conhecimentos para desenvolver soluções inovadoras.</p>
     </td>
     <td style="vertical-align: middle;">
       <img src="https://github.com/user-attachments/assets/579f4903-dd32-4e85-af81-aa21ad5f4947" width="250" />
