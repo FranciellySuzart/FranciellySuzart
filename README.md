@@ -15,13 +15,6 @@
   </tr>
 </table>
 
-### 📊 Estatísticas
-<img 
-   align="left"
-   alt="Github stats"
-   height="200"
-   src="https://github-readme-stats.vercel.app/api?username=FranciellySuzart&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br"
-/>
 
 <img 
    align="left"
