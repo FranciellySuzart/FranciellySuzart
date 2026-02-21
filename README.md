@@ -5,8 +5,8 @@
     <td style="padding-right:10px; vertical-align: middle;">
       <h2>Welcome to my profile | Bienvenidos a mi perfil </h2>
       <p> 
-      Atualmente sou estudante de Sistemas de Informação(3º período) na UCL(Universidade <br>Centro Leste). Me interesso por front-end, por back-end e também pela área de dados.</p>
-        <p>Estudando atualmente as inguagens Java e C#.</p>
+      Atualmente sou estudante de Sistemas de Informação(3º período) na UCL(Universidade <br>Centro Leste). Estagiando na Vale S.A na área de gestão de dados.</p>
+        <p>Estudando atualmente as linguagens Java e C#.</p>
       <p>Estudo e me atualizo sobre a área de tecnologia constantemente pois adoro aprender e utilizar meus conhecimentos para desenvolver soluções inovadoras.</p>
     </td>
     <td style="vertical-align: middle;">
