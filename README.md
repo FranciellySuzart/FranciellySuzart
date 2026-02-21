@@ -16,16 +16,4 @@
 </table>
 
 
-<img 
-   align="left"
-   alt="Github stats"
-   height="200"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciellySuzart&theme=synthwave&layout_compact&custom_title=Tecnologias"
-/>
 
-<picture>
-<source media="(prefers-color-scheme: dark)"srcset="https://raw.githubusercontent.com/FranciellySuzart/FranciellySuzart/output/github-contribution-grid-snake.svg">
-<souce media="(preferscolor-scheme: light)" srcset="https://raw.githubusercontent.com/FranciellySuzart/FranciellySuzart/output/github-contribution-grid-snake.svg">
-<img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/FranciellySuzart/FranciellySuzart/output/github-contribution-grid-snake.svg">
-</picture>
-<br></br>
