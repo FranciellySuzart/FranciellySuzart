@@ -1,2 +1,2 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Olá%2C+eu+sou+a+Francielly+Suzart!)
-
+<table> <tr> <td style="padding-right:10px; vertical-align: middle;"> <h2>Welcome to my profile | Bienvenidos a mi perfil </h2> <p> Estudante de Sistemas de Informação(3º período) na Faculdade UCL. <p>Estagiando na Vale S.A na área de gestão de dados.</p> <p>Aprimorando conhecimento na linguagem C#.</p> </td> <td style="vertical-align: middle;"> <img src="https://github.com/user-attachments/assets/579f4903-dd32-4e85-af81-aa21ad5f4947" width="250" /> </td> </tr> </table>
